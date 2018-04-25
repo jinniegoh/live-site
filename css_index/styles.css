@@ -1,0 +1,27 @@
+img {max-width:100%;}
+
+h2 { font-family :Chalkduster;
+    font-size : 400%;}
+div h2 {color :white; }
+
+.centred {text-align: center;}
+body {
+  background: url("https://4cxqn5j1afk2facwz3mfxg5r-wpengine.netdna-ssl.com/wp-content/uploads/2013/02/Ipoh_5_binary_20357-1472039304.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: scroll;
+}
+
+h1 { font-family :'Chalkduster'; }
+  div h1 {color :white; }
+
+h3 { font-family :'Chalkduster'; }
+  div h3 {color :white; }
+
+  h4 { font-family :'Chalkduster'; }
+    div h4 {color :white; }
+
+    li { font-family :'Chalkduster'; }
+      div li {color :white; }
+
+    
